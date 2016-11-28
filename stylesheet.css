@@ -1,0 +1,21 @@
+body {
+
+background-color: black;
+color: white;
+margin: 0;
+font-family: courier new;
+}
+#video_cont{
+	color: white;
+
+}
+#video{
+	
+	height: 300px;
+	width: 300px;
+	margin: auto;
+	visibility: hidden;
+
+}
+
+
